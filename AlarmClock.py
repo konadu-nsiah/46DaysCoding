@@ -1,5 +1,4 @@
 from datetime import datetime
-from playsound import playsound
 import pygame
 import  time
 # Takes user input for time
